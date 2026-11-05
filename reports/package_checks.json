@@ -1,0 +1,10 @@
+{
+  "python_source_files": 8,
+  "sql_files": 20,
+  "figures": 7,
+  "python_syntax": "passed",
+  "csv_reconciliations": "passed",
+  "literal_password_scan": "passed",
+  "fresh_database_rebuild": "not_run",
+  "sql_07_part2": "added_in_package_only"
+}
